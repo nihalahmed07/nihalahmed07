@@ -1,55 +1,60 @@
-![Banner](https://raw.githubusercontent.com/nihalahmed07/nihalahmed07/main/banner.png)
+<h1 align="center">Hi there 👋, I'm Nihal Ahmed</h1>
+<h3 align="center">Aspiring Java Developer | AI Enthusiast | Web Developer 🚀</h3>
 
-# 💻 Nihal Ahmed | Java Developer 🚀
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihalahmed07)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.nihalahmed._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihalahmed07)
+<img src="https://user-images.githubusercontent.com/74038190/241819428-5c46610f-594a-401b-9680-725184bc3ff4.gif" alt="banner" width="100%">
 
 ---
 
-## 🚀 About Me
-Hi, I'm **Nihal Ahmed**, a passionate **Java Developer** specializing in **Full-Stack Development** with expertise in **Java, .NET, Kotlin, SQL, and more**. I love building scalable web applications and Android apps.
-
-- 💼 Currently working on **AI Prompt Evaluation Project** 🧠
-- 🎓 Graduate from **Velammal Engineering College**
-- 📫 Reach me at [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
+## 🧑‍💻 About Me
+- 💻 I’m currently working on **Full Stack Web Development**  
+- 🚀 I’m learning **Java, Spring Boot, and ReactJS**  
+- 🎯 My Goal is to **Become a Professional Java Developer**  
+- 🤝 I’m looking to collaborate on **AI + Web-based Projects**  
 
 ---
 
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+## 🚀 Skills & Tools
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🧱 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🛠 Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalahmed07&show_icons=true&theme=radical)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nihalahmed07&show_icons=true&theme=dark" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalahmed07&theme=dark" />
+</p>
 
 ---
 
-## 🚀 Projects
-### 📲 Android Apps
-- [Quotes App](https://github.com/nihalahmed07/quotes-app)
-- [To-Do List App](https://github.com/nihalahmed07/todo-list)
-- [Alarm Clock App](https://github.com/nihalahmed07/alarm-clock)
-
-### 💻 Web Applications
-- [Library Management System](https://github.com/nihalahmed07/library-management)
-- [Food Ordering System](https://github.com/nihalahmed07/food-order)
-- [Online Shopping Website](https://github.com/nihalahmed07/online-shop)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nihalahmed07&theme=onedark" />
+</p>
 
 ---
 
-## 💬 Let's Connect
-📩 **Email:** [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
-📱 **Instagram:** [_.nihalahmed._](https://instagram.com/_.nihalahmed._)
-💼 **LinkedIn:** [nihalahmed07](https://www.linkedin.com/in/nihalahmed07)
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihalahmed07/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.nihalahmed._/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:n.nihalahmed1@gmail.com)
 
 ---
 
-⭐ **Star my repositories if you find them useful!** 🚀😎
+## ⚡ Fun Fact
+💡 *The first computer virus was created in 1986 and was called "Brain"!* 🤯
