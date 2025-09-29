@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Nihal Ahmed</h1>
-<h3 align="center">Aspiring Java Developer | AI Enthusiast | Web Developer 🚀</h3>
+<h1 align="center">Hi there 👋, I'm Nihal Ahmed Nariyam</h1>
+<h3 align="center">Software Engineer | AI Enthusiast | Web Developer 🚀</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/241819428-5c46610f-594a-401b-9680-725184bc3ff4.gif" alt="banner" width="100%">
 
@@ -51,8 +51,8 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihalahmed07/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.nihalahmed._/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:n.nihalahmed1@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.nihalahmed._/)
+[![Gmail](https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail)](mailto:n.nihalahmed1@gmail.com)
 
 ---
 
