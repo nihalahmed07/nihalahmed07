@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Ahmed Nariyam</h1>
-<h3 align="center">Software Engineer • Founder of Neo India • Building Digital Products 🚀</h3>
+<h3 align="center">Software Engineer • Founder of Nariyam Group • Building Digital Products 🚀</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/241819428-5c46610f-594a-401b-9680-725184bc3ff4.gif" alt="banner" width="100%">
 
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 💼 Software Engineer at Colan Infotech
-- 🏢 Founder of Neo India
+- 🏢 Founder of Nariyam Group
 - 🌱 Building SaaS, Mobile Apps & AI-Powered Products
 - 💻 Specialized in Full Stack Development
 - 📱 Developing React Native & Next.js Applications
