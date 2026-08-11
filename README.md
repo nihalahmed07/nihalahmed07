@@ -1,111 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nihal Ahmed Nariyam</h1>
+# Nihal Ahmed Nariyam
 
-<h3 align="center">
-Builder • Software Engineer • Founder of Nariyam Group
-</h3>
+**Software Engineer · Builder · Founder**
 
-<p align="center">
-Building software, businesses, and solutions that create real-world impact.
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/241819428-5c46610f-594a-401b-9680-725184bc3ff4.gif" width="100%" alt="Coding Banner"/>
+Software engineer at Colan Infotech. Building products under Nariyam — a personal venture for software, SaaS ideas, and business systems.
 
 ---
 
-# 👨‍💻 About Me
+## About
 
-- 💼 Software Engineer at **Colan Infotech Pvt. Ltd.**
-- 🏢 Founder of **Nariyam Group**
-- 🚀 Passionate about building digital products and startups
-- 💻 Full Stack Developer specializing in modern web technologies
-- 📱 Building Web & Mobile Applications
-- 🤖 Exploring AI, Automation & Business Solutions
-- ⚡ Lifelong learner who enjoys building both software and real-world projects
-- 🎯 Mission: Build products that make a meaningful impact
+I work on web and business software professionally, and I build my own products on the side. At **Colan Infotech**, I contribute across frontend, backend, and application delivery. Through **Nariyam Group** / **Nariyam Technologies**, I develop software products and experiments — focused on getting useful things working, not just prototyped.
 
----
+## Currently Building
 
-# 🛠 Tech Stack
+These are active efforts. Most are private or early-stage — not all have public source code.
 
-## Languages
+- **Nariyam** — personal venture for software products, SaaS experiments, and related business ideas
+- **Healthify** — building a healthcare SaaS platform
+- **SkillMatrix** — developing SkillMatrix as a skills-focused product
+- **Product experiments** — AI-assisted tools and small developer/product builds
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Selected Public Work
 
-## Frontend
+Representative public examples of the kind of software I build.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+### Bingo
+Customizable N×N bingo boards (3×3–10×10) with play mode, saved boards, light/dark theme, and PWA support. TypeScript + React app under **Nariyam Technologies**. Frontend-only; boards persist in the browser.
 
-## Backend
+[Repository](https://github.com/nihalahmed07/Bingo-Game)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+### Basha Food
+Public website for a food brand.
 
-## Mobile
+[bashafood.in](https://bashafood.in/)
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+### Contact Management System
+Small TypeScript contact manager with create/edit/organize flows and a live demo. Useful as a compact example of UI + client-side application structure.
 
-## Database
+[Repository](https://github.com/nihalahmed07/Contact-Management-System-Using-TypeScript) · [Live demo](https://neocontacts.netlify.app)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+## Engineering Stack
 
-## Tools
+**Core**  
+JavaScript · TypeScript · React · Next.js · Node.js · PHP · Laravel · SQL / PostgreSQL
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+**Also work with**  
+Python · React Native · WordPress · Tailwind CSS · Supabase · MySQL · AWS
 
----
+## Experience
 
-# 🚀 Current Focus
+### Colan Infotech
+**Software Engineer**
 
-- 🌐 Building the **Nariyam Group** ecosystem
-- 📱 Developing mobile applications
-- 💼 Business Management Systems
-- 🚀 Startup products & SaaS
-- 🤖 AI-powered productivity tools
-- 🌍 Open-source learning and contributions
+Full-stack work on business applications and web systems — frontend interfaces, backend/API features, and shipping application functionality as part of a product team.
 
----
+### Nariyam Group
+**Founder · Builder**
 
-# 📈 GitHub Stats
+Building Nariyam as a personal technology venture: software products, SaaS experiments, and practical tools under **Nariyam Technologies** and related initiatives. Early-stage and actively evolving.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nihalahmed07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalahmed07&theme=tokyonight" />
-</p>
+## Engineering Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalahmed07&layout=compact&theme=tokyonight"/>
-</p>
+SaaS products · AI-assisted software · business systems · developer tools · automation · web and mobile product engineering
+
+## GitHub
+
+- Profile: [github.com/nihalahmed07](https://github.com/nihalahmed07)
+- Public builds: [Bingo](https://github.com/nihalahmed07/Bingo-Game) · [Contact Management](https://github.com/nihalahmed07/Contact-Management-System-Using-TypeScript)
+
+## Connect
+
+- Portfolio: [nihalahmed.in](https://nihalahmed.in)
+- LinkedIn: [linkedin.com/in/nihalahmed07](https://linkedin.com/in/nihalahmed07)
+- Email: [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
+- GitHub: [github.com/nihalahmed07](https://github.com/nihalahmed07)
 
 ---
 
-# 🌍 Connect With Me
-
-🌐 Portfolio: **https://nihalahmed.in**
-
-💼 LinkedIn: **https://linkedin.com/in/nihalahmed07**
-
-📧 Email: **n.nihalahmed1@gmail.com**
-
-📸 Instagram: **https://instagram.com/_.nihalahmed._**
-
----
-
-# 💭 Philosophy
-
-> **"Creator by nature. Engineer by profession."**
-
-> **"Build. Learn. Improve. Repeat."**
-
----
-
-⭐ *Building software, businesses, and solutions that create lasting impact.*
+*I build software that works — and keep building until it does.*
